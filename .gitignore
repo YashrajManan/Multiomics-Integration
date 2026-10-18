@@ -1,0 +1,24 @@
+# Private, git-ignored per this portfolio's convention -- learning files, not published
+WORKFLOW.md
+PROJECT_NARRATIVE.md
+INTERVIEW_QA.md
+INTERPRETATION.md
+
+# Blank/hint teaching scaffold -- the clean, filled-in notebook is what gets pushed
+multi_omics_integration_ibdmdb.ipynb
+
+# Raw working/debug notebook from live debugging -- superseded by the clean pushable notebook;
+# the real bug chronicle it represents lives in PROJECT_NARRATIVE.md Section 7 instead
+multi_omics_integration_ibdmdb_ran_tried_hands_in_effort.ipynb
+
+# Downloaded/exported intermediate data files -- large, reproducible by rerunning the R script / notebook
+HMP2_metabolomics.biom
+hmp2_curatedMGD_metadata.csv
+hmp2_taxonomic_relative_abundance.csv
+hmp2_pathway_abundance.csv
+
+# Standard
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory

@@ -1,0 +1,801 @@
+,,0
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Peptostreptococcaceae|g__Intestinibacter|s__Intestinibacter_bartlettii,0.09552980744596641
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Ruminococcus_gnavus,0.09475641438030336
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli,0.09243548890980309
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_parvula,0.08846070458270636
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Erysipelatoclostridium_ramosum,0.08836939708144506
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_quasipneumoniae,0.08656554146097645
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Proteus|s__Proteus_mirabilis,0.08364572392610942
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_variicola,0.07692401397977747
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Flavonifractor|s__Flavonifractor_plautii,0.07597930268264343
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Morganella|s__Morganella_morganii,0.07450116013118817
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Citrobacter|s__Citrobacter_youngae,0.07384912485450999
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_hansenii,0.07371961618308259
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_pneumoniae,0.07293910667567939
+PC1_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Citrobacter|s__Citrobacter_freundii,0.07110983430521385
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_intestinalis,0.06961624483892138
+PC1_taxonomic,k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium_nucleatum,0.06925872880502129
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_paraputrificum,0.06922411610265945
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Hungatella|s__Hungatella_hathewayi,0.06886770467640849
+PC1_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_citroniae,0.06878844707908005
+PC1_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_animalis,0.06872407458626414
+PC1_pathway,HOMOSER-METSYN-PWY: L-methionine biosynthesis I,0.018352618473262458
+PC1_pathway,P161-PWY: acetylene degradation,0.018280796015344224
+PC1_pathway,PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation,0.01826298406882261
+PC1_pathway,METSYN-PWY: L-homoserine and L-methionine biosynthesis,0.018242885829854928
+PC1_pathway,PWY0-1415: superpathway of heme biosynthesis from uroporphyrinogen-III,0.018216074977914963
+PC1_pathway,PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii),0.018214144650696276
+PC1_pathway,PWY-7269: NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast),0.01820674240244492
+PC1_pathway,HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic),0.018190544077299507
+PC1_pathway,"PWY-7385: 1,3-propanediol biosynthesis (engineered)",0.018163405667947937
+PC1_pathway,PWY-6353: purine nucleotides degradation II (aerobic),0.01816161541314287
+PC1_pathway,PWY-5173: superpathway of acetyl-CoA biosynthesis,0.01813791976939097
+PC1_pathway,MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis,0.01811767909284769
+PC1_pathway,PWY-6606: guanosine nucleotides degradation II,0.0180979468367733
+PC1_pathway,PWY0-881: superpathway of fatty acid biosynthesis I (E. coli),0.018071808053844517
+PC1_pathway,SALVADEHYPOX-PWY: adenosine nucleotides degradation II,0.0180356080155846
+PC1_pathway,PWY-5918: superpathay of heme biosynthesis from glutamate,0.01799232393895989
+PC1_pathway,THREOCAT-PWY: superpathway of L-threonine metabolism,0.017983803171227768
+PC1_pathway,PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration),0.017962545442030787
+PC1_pathway,GLUCARDEG-PWY: D-glucarate degradation I,0.017958412493856213
+PC1_pathway,PWY-6708: ubiquinol-8 biosynthesis (prokaryotic),0.0179571547409143
+PC1_proteomics,gi|153794516|gb|EDN76936.1|,0.015429406056522326
+PC1_proteomics,gi|300402202|gb|EFJ85740.1|,0.015074637798224768
+PC1_proteomics,gi|300401938|gb|EFJ85476.1|,0.014707452049637566
+PC1_proteomics,gi|153795877|gb|EDN78297.1|,0.014436773447865267
+PC1_proteomics,gi|300404169|gb|EFJ87707.1|,0.01422010597519847
+PC1_proteomics,gi|188023164|gb|EDU61204.1|,0.013995105272218002
+PC1_proteomics,gi|188019296|gb|EDU57336.1|,0.013762457319757903
+PC1_proteomics,gi|300401719|gb|EFJ85257.1|,0.01371557861142792
+PC1_proteomics,gi|300402736|gb|EFJ86274.1|,0.01370137270518857
+PC1_proteomics,gi|188022853|gb|EDU60893.1|,0.013685057626083748
+PC1_proteomics,gi|300403570|gb|EFJ87108.1|,0.013623182457099346
+PC1_proteomics,gi|198270404|gb|EDY94674.1|,0.013286208597051324
+PC1_proteomics,gi|300404843|gb|EFJ88381.1|,0.013230696761873044
+PC1_proteomics,gi|300401229|gb|EFJ84767.1|,0.013219808364104217
+PC1_proteomics,gi|198270702|gb|EDY94972.1|,0.013130272494485326
+PC1_proteomics,gi|300405543|gb|EFJ89081.1|,0.013122030200656148
+PC1_proteomics,gi|300401682|gb|EFJ85220.1|,0.013111141806237547
+PC1_proteomics,gi|300403018|gb|EFJ86556.1|,0.01303053446215924
+PC1_proteomics,gi|198271728|gb|EDY95998.1|,0.013018620025870146
+PC1_proteomics,gi|153796236|gb|EDN78656.1|,0.012993031509223665
+PC1_metabolomics,HILp_QI6204,0.005311269742280235
+PC1_metabolomics,HILp_QI11940,0.005239832468776683
+PC1_metabolomics,HILn_QI10071,0.005168434520946739
+PC1_metabolomics,HILp_QI11558,0.005156884349807264
+PC1_metabolomics,HILp_QI11511,0.005100475349119852
+PC1_metabolomics,C8p_QI5135,0.0050965145520696226
+PC1_metabolomics,HILp_QI11443,0.005075231865307104
+PC1_metabolomics,HILp_QI10330,0.005030840624540839
+PC1_metabolomics,HILp_QI5318,0.005021908204544928
+PC1_metabolomics,HILn_QI1643,0.005005335003346931
+PC1_metabolomics,HILp_QI6848,0.005003423649099588
+PC1_metabolomics,HILn_QI7424,0.004984167979601748
+PC1_metabolomics,HILp_QI9820,0.004983628692093228
+PC1_metabolomics,HILp_QI6120,0.0049310100069228655
+PC1_metabolomics,HILn_QI707,0.004912955524518559
+PC1_metabolomics,HILp_QI7996,0.004886334099274449
+PC1_metabolomics,HILp_TF25,0.004881959204851189
+PC1_metabolomics,HILn_QI11429,0.0048748216456658095
+PC1_metabolomics,HILp_QI6844,0.004845202622382506
+PC1_metabolomics,HILn_QI612,0.004840762354957339
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_110,0.09127508683970639
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Coprococcus|s__Coprococcus_catus,0.09108129095072792
+PC2_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_vulgatus,0.08286538971070202
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_sp_CAG_182,0.07720531820381245
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_unclassified|s__Eubacterium_siraeum,0.07663061034588911
+PC2_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Slackia|s__Slackia_isoflavoniconvertens,0.0733465439099043
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Gemmiger|s__Gemmiger_formicilis,0.07301924880980223
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_faecis,0.06668751529271653
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_95,0.0648253907891625
+PC2_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Aeriscardovia|s__Aeriscardovia_aeriphila,0.06446552344594444
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Fusicatenibacter|s__Fusicatenibacter_saccharivorans,0.06303324086139059
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_sp_CAG_309,0.0630147025212031
+PC2_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Asaccharobacter|s__Asaccharobacter_celatus,0.06235286085122747
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_longicatena,0.06116381514872787
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_saccharolyticum,0.05939447915195322
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.05771678368240718
+PC2_taxonomic,k__Archaea|p__Euryarchaeota|c__Methanobacteria|o__Methanobacteriales|f__Methanobacteriaceae|g__Methanobrevibacter|s__Methanobrevibacter_smithii,0.05641158040367628
+PC2_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Adlercreutzia|s__Adlercreutzia_equolifaciens,0.05418321915434052
+PC2_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Coriobacteriaceae|g__Collinsella|s__Collinsella_aerofaciens,0.05378950600667209
+PC2_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_hallii,0.05255636151609817
+PC2_pathway,ARO-PWY: chorismate biosynthesis I|unclassified,0.019639226093089674
+PC2_pathway,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified,0.01929419982266477
+PC2_pathway,ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified,0.019228065508029055
+PC2_pathway,PWY-7400: L-arginine biosynthesis IV (archaebacteria)|unclassified,0.019143973992715557
+PC2_pathway,ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified,0.019143463733419838
+PC2_pathway,GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified,0.01912775485890345
+PC2_pathway,PWY0-1296: purine ribonucleosides degradation|unclassified,0.01909602896792291
+PC2_pathway,COLANSYN-PWY: colanic acid building blocks biosynthesis|unclassified,0.019050490407558907
+PC2_pathway,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified,0.019025249494055728
+PC2_pathway,ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified,0.01898901340470284
+PC2_pathway,TRNA-CHARGING-PWY: tRNA charging|unclassified,0.018975691711319343
+PC2_pathway,ANAEROFRUCAT-PWY: homolactic fermentation|unclassified,0.01887716498232685
+PC2_pathway,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified,0.01870964707602857
+PC2_pathway,PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified,0.018562413768078885
+PC2_pathway,CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified,0.018504695028064705
+PC2_pathway,PWY66-400: glycolysis VI (metazoan)|unclassified,0.01847584586417613
+PC2_pathway,GLUTORN-PWY: L-ornithine biosynthesis|unclassified,0.018287169207119834
+PC2_pathway,PWY0-1261: anhydromuropeptides recycling|unclassified,0.018234490427091434
+PC2_pathway,PWY-1042: glycolysis IV (plant cytosol)|unclassified,0.018142967775388624
+PC2_pathway,"PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|unclassified",0.018123230656437977
+PC2_proteomics,gi|156864127|gb|EDO57558.1|,0.019511367334184283
+PC2_proteomics,gi|158433736|gb|EDP12025.1|,0.01932702806725971
+PC2_proteomics,gi|158432313|gb|EDP10602.1|,0.018873631491991318
+PC2_proteomics,gi|167709749|gb|EDS20328.1|,0.01860826681167355
+PC2_proteomics,gi|156865476|gb|EDO58907.1|,0.018596311813923898
+PC2_proteomics,gi|156865579|gb|EDO59010.1|,0.01823464257416721
+PC2_proteomics,gi|158435998|gb|EDP13765.1|,0.01810875785682751
+PC2_proteomics,gi|167657404|gb|EDS01534.1|,0.018084931041333775
+PC2_proteomics,gi|158433722|gb|EDP12011.1|,0.01799178511013363
+PC2_proteomics,gi|156863661|gb|EDO57092.1|,0.017979829438428224
+PC2_proteomics,gi|156864128|gb|EDO57559.1|,0.017964755351720527
+PC2_proteomics,gi|153795867|gb|EDN78287.1|,0.017958595393967276
+PC2_proteomics,gi|156863665|gb|EDO57096.1|,0.01793233472020341
+PC2_proteomics,gi|156863212|gb|EDO56643.1|,0.017898745870944567
+PC2_proteomics,gi|156864123|gb|EDO57554.1|,0.01789480305612303
+PC2_proteomics,gi|156863893|gb|EDO57324.1|,0.017890475123445278
+PC2_proteomics,gi|158433320|gb|EDP11609.1|,0.01788742474248495
+PC2_proteomics,gi|167655791|gb|EDR99920.1|,0.017843092571645434
+PC2_proteomics,gi|156864277|gb|EDO57708.1|,0.017834402845757217
+PC2_proteomics,gi|197297104|gb|EDY31668.1|,0.017778883013888885
+PC2_metabolomics,C18n_QI4487,0.0057712354615191445
+PC2_metabolomics,C18n_QI4916,0.005653068425673828
+PC2_metabolomics,C18n_QI4698,0.005577887072909449
+PC2_metabolomics,C18n_QI6875,0.0054357390886911605
+PC2_metabolomics,C18n_QI4771,0.005384670606716127
+PC2_metabolomics,C18n_QI2164,0.005319653686829719
+PC2_metabolomics,C8p_QI14214,0.005317242482901696
+PC2_metabolomics,C18n_QI3406,0.005309886631008553
+PC2_metabolomics,C18n_QI5428,0.005269411894669206
+PC2_metabolomics,C18n_QI2877,0.005219763272173937
+PC2_metabolomics,C18n_QI6516,0.0051932479575125074
+PC2_metabolomics,C18n_QI283,0.005191998156441529
+PC2_metabolomics,C8p_QI27534,0.005176138703807921
+PC2_metabolomics,C18n_QI4488,0.005169483862380887
+PC2_metabolomics,C18n_QI4514,0.005159646953895247
+PC2_metabolomics,HILn_QI2926,0.005136088190822513
+PC2_metabolomics,C8p_QI22314,0.005126507401990982
+PC2_metabolomics,C18n_QI4485,0.005106507723764119
+PC2_metabolomics,C18n_QI76,0.005094011415681433
+PC2_metabolomics,C8p_QI28055,0.005086292836868846
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_citroniae,0.10918069349195428
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Citrobacter|s__Citrobacter_freundii,0.1091439612766556
+PC3_taxonomic,k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium_nucleatum,0.10848083331701092
+PC3_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_animalis,0.10508688783202816
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_hansenii,0.1044597232552758
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Citrobacter|s__Citrobacter_youngae,0.0961710825220358
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.09235040286230514
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_parvula,0.08951696653211297
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Morganella|s__Morganella_morganii,0.08625469430731113
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_quasipneumoniae,0.08327326863968415
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_pneumoniae,0.0741689685908908
+PC3_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_variicola,0.0726753183415756
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_sp_T11011_6,0.07157013782777008
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_salivarius,0.06849204084040711
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_infantium,0.06767879413470704
+PC3_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Coriobacteriales|f__Coriobacteriaceae|g__Collinsella|s__Collinsella_aerofaciens,0.06503547942057311
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Ruminococcus_gnavus,0.06307433498008147
+PC3_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_longum,0.062875455425026
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_thermophilus,0.06200466229258479
+PC3_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Erysipelatoclostridium_ramosum,0.061435181009215425
+PC3_pathway,UNINTEGRATED|g__Lachnoclostridium.s__Clostridium_citroniae,0.018704460980762876
+PC3_pathway,DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I|g__Lachnoclostridium.s__Clostridium_citroniae,0.018621876394829068
+PC3_pathway,PWY0-1296: purine ribonucleosides degradation|g__Lachnoclostridium.s__Clostridium_citroniae,0.018620707362112274
+PC3_pathway,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_citroniae,0.018616548684002303
+PC3_pathway,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnoclostridium.s__Clostridium_citroniae,0.01860993904982159
+PC3_pathway,VALSYN-PWY: L-valine biosynthesis|g__Lachnoclostridium.s__Clostridium_citroniae,0.018609573564288367
+PC3_pathway,NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Lachnoclostridium.s__Clostridium_citroniae,0.01860488514295852
+PC3_pathway,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Lachnoclostridium.s__Clostridium_citroniae,0.018583749295992005
+PC3_pathway,PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Lachnoclostridium.s__Clostridium_citroniae,0.018564245652958906
+PC3_pathway,PWY-6168: flavin biosynthesis III (fungi)|g__Hungatella.s__Hungatella_hathewayi,0.01829237070926676
+PC3_pathway,P163-PWY: L-lysine fermentation to acetate and butanoate,0.01827088018404966
+PC3_pathway,PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation|g__Hungatella.s__Hungatella_hathewayi,0.01814929675607428
+PC3_pathway,PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Hungatella.s__Hungatella_hathewayi,0.018130415058399345
+PC3_pathway,SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Hungatella.s__Hungatella_hathewayi,0.018129860667622212
+PC3_pathway,PWY-6608: guanosine nucleotides degradation III|g__Hungatella.s__Hungatella_hathewayi,0.01812899237656507
+PC3_pathway,"PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|g__Hungatella.s__Hungatella_hathewayi",0.01808333490609048
+PC3_pathway,PWY-4722: creatinine degradation II,0.018079239536132472
+PC3_pathway,SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Hungatella.s__Hungatella_hathewayi,0.018071952049804704
+PC3_pathway,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Hungatella.s__Hungatella_hathewayi,0.01798505165330342
+PC3_pathway,PWY-6151: S-adenosyl-L-methionine cycle I|g__Hungatella.s__Hungatella_hathewayi,0.017962204433045414
+PC3_proteomics,gi|158435657|gb|EDP13424.1|,0.02042144976062543
+PC3_proteomics,gi|300402173|gb|EFJ85711.1|,0.01819989773332231
+PC3_proteomics,gi|158436647|gb|EDP14414.1|,0.01799895373404326
+PC3_proteomics,gi|153794413|gb|EDN76833.1|,0.017804326137745793
+PC3_proteomics,gi|158436017|gb|EDP13784.1|,0.017611077038274532
+PC3_proteomics,gi|158436005|gb|EDP13772.1|,0.017530887154395533
+PC3_proteomics,gi|158437062|gb|EDP14829.1|,0.01743146399384319
+PC3_proteomics,gi|158435451|gb|EDP13218.1|,0.0173846794569243
+PC3_proteomics,gi|158436010|gb|EDP13777.1|,0.016997319029834104
+PC3_proteomics,gi|158438570|gb|EDP16327.1|,0.016883524665869877
+PC3_proteomics,gi|300404516|gb|EFJ88054.1|,0.016836102475253897
+PC3_proteomics,gi|188020107|gb|EDU58147.1|,0.016678445992879664
+PC3_proteomics,gi|158433808|gb|EDP12097.1|,0.01650068089162812
+PC3_proteomics,gi|188020113|gb|EDU58153.1|,0.01648521318079156
+PC3_proteomics,gi|300405356|gb|EFJ88894.1|,0.016441682531182854
+PC3_proteomics,gi|167712254|gb|EDS22833.1|,0.016238712091443067
+PC3_proteomics,gi|364562122|gb|EHM39992.1|,0.016187550017066007
+PC3_proteomics,gi|300405543|gb|EFJ89081.1|,0.016076263279417437
+PC3_proteomics,gi|158439988|gb|EDP17736.1|,0.016040879688144733
+PC3_proteomics,gi|188019717|gb|EDU57757.1|,0.015938474907804357
+PC3_metabolomics,C18n_QI9183,0.00583587645648116
+PC3_metabolomics,C8p_QI2842,0.005810407911396578
+PC3_metabolomics,HILn_QI1838,0.0057925483176144545
+PC3_metabolomics,C18n_QI5647,0.005770710207914563
+PC3_metabolomics,HILn_QI18812,0.005769153524419727
+PC3_metabolomics,C8p_QI8409,0.005744395623368465
+PC3_metabolomics,HILp_QI6110,0.005735910755922395
+PC3_metabolomics,C8p_QI21748,0.005727477530695388
+PC3_metabolomics,C8p_QI28840,0.005722623101309487
+PC3_metabolomics,C8p_QI27064,0.005719566712300979
+PC3_metabolomics,C18n_QI624,0.005718631563606586
+PC3_metabolomics,C8p_QI2436,0.005718241772820695
+PC3_metabolomics,HILn_QI1894,0.005714884260495494
+PC3_metabolomics,C8p_QI8581,0.005714723862729309
+PC3_metabolomics,C18n_QI3126,0.005713192045947791
+PC3_metabolomics,C18n_QI5646,0.005708186983025814
+PC3_metabolomics,C8p_QI21323,0.005706820327143008
+PC3_metabolomics,C8p_QI12427,0.0057043633605809215
+PC3_metabolomics,C8p_QI3044,0.005702599010915709
+PC3_metabolomics,C8p_QI15026,0.0057003539981159215
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Lachnoclostridium_sp_An138,0.08216094432769007
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_intestinalis,0.08016273445418745
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_eligens,0.07648316678258013
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_hominis,0.07450270678979934
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Acidaminococcales|f__Acidaminococcaceae|g__Phascolarctobacterium|s__Phascolarctobacterium_succinatutens,0.07233986100197419
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerotignum|s__Anaerotignum_lactatifermentans,0.0707568583667759
+PC4_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_copri,0.06966319222985118
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_producta,0.06818525762127571
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Clostridium_spiroforme,0.06767706724787034
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_sp_CAG_242,0.06550729222860863
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Clostridium_innocuum,0.06460598590086702
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_94,0.06455100440763094
+PC4_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Eggerthella|s__Eggerthella_lenta,0.06349586794843355
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_parasanguinis,0.06299593868888814
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Fusicatenibacter|s__Fusicatenibacter_saccharivorans,0.06293835516141807
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_salivarius,0.0628838847374325
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Pseudoflavonifractor|s__Pseudoflavonifractor_sp_An184,0.06281787912265006
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Hungatella|s__Hungatella_hathewayi,0.06190754646020025
+PC4_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_dorei,0.059756606447007844
+PC4_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Allisonella|s__Allisonella_histaminiformans,0.059671805914785575
+PC4_pathway,PWY-7196: superpathway of pyrimidine ribonucleosides salvage,0.017050077363731094
+PC4_pathway,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Flavonifractor.s__Flavonifractor_plautii,0.016419888836855943
+PC4_pathway,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Flavonifractor.s__Flavonifractor_plautii,0.016419888836855943
+PC4_pathway,TRNA-CHARGING-PWY: tRNA charging|g__Flavonifractor.s__Flavonifractor_plautii,0.015428196647634373
+PC4_pathway,PWY-7456: mannan degradation,0.015426586521049172
+PC4_pathway,SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I,0.015426518497855476
+PC4_pathway,ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Flavonifractor.s__Flavonifractor_plautii,0.015405329842109803
+PC4_pathway,VALSYN-PWY: L-valine biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii,0.015385846580832224
+PC4_pathway,PWY-5104: L-isoleucine biosynthesis IV|g__Flavonifractor.s__Flavonifractor_plautii,0.015334541950857967
+PC4_pathway,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Flavonifractor.s__Flavonifractor_plautii,0.015307103296303606
+PC4_pathway,PWY-5103: L-isoleucine biosynthesis III|g__Flavonifractor.s__Flavonifractor_plautii,0.015249925944625556
+PC4_pathway,BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched amino acid biosynthesis|g__Flavonifractor.s__Flavonifractor_plautii,0.01524853161759653
+PC4_pathway,SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii,0.015175012513077693
+PC4_pathway,PWY0-1319: CDP-diacylglycerol biosynthesis II,0.015151968497791402
+PC4_pathway,PWY-5667: CDP-diacylglycerol biosynthesis I,0.015151590037216672
+PC4_pathway,UNINTEGRATED|g__Flavonifractor.s__Flavonifractor_plautii,0.015065196349081527
+PC4_pathway,PWY-6588: pyruvate fermentation to acetone|g__Flavonifractor.s__Flavonifractor_plautii,0.014996951024135577
+PC4_pathway,PWY-4984: urea cycle|g__Flavonifractor.s__Flavonifractor_plautii,0.014968716405809337
+PC4_pathway,PWY-1042: glycolysis IV (plant cytosol)|g__Eubacterium.s__Eubacterium_eligens_CAG_72,0.01496019436280427
+PC4_pathway,ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Flavonifractor.s__Flavonifractor_plautii,0.014897573084555098
+PC4_proteomics,gi|225041262|gb|EEG51508.1|,0.015685564307409732
+PC4_proteomics,gi|210152254|gb|EEA83261.1|,0.015563109046367733
+PC4_proteomics,gi|225209596|gb|EEG91950.1|,0.015165068032481747
+PC4_proteomics,gi|149834224|gb|EDM89304.1|,0.015061294350064357
+PC4_proteomics,gi|357556650|gb|EHJ38236.1|,0.014802147862785428
+PC4_proteomics,gi|357555721|gb|EHJ37345.1|,0.014359279486143278
+PC4_proteomics,gi|357558499|gb|EHJ39992.1|,0.01434007857886524
+PC4_proteomics,gi|357556791|gb|EHJ38367.1|,0.014335136293692988
+PC4_proteomics,gi|357555271|gb|EHJ36936.1|,0.014293407997954543
+PC4_proteomics,gi|167712505|gb|EDS23084.1|,0.014287418790133061
+PC4_proteomics,gi|167655899|gb|EDS00029.1|,0.014195973615777227
+PC4_proteomics,gi|357558481|gb|EHJ39974.1|,0.014181031180220348
+PC4_proteomics,gi|322414779|gb|EFY05579.1|,0.0141690914072247
+PC4_proteomics,gi|357558623|gb|EHJ40109.1|,0.01404731121059024
+PC4_proteomics,gi|357560155|gb|EHJ41556.1|,0.014040413817726768
+PC4_proteomics,gi|357555274|gb|EHJ36939.1|,0.014035343982002827
+PC4_proteomics,gi|357558484|gb|EHJ39977.1|,0.013895629117505786
+PC4_proteomics,gi|357560122|gb|EHJ41525.1|,0.013889346861871129
+PC4_proteomics,gi|364564481|gb|EHM42247.1|,0.013847041315408913
+PC4_proteomics,gi|357556213|gb|EHJ37829.1|,0.013844838981947797
+PC4_metabolomics,C8p_QI25854,0.006203576456193203
+PC4_metabolomics,C18n_QI9888,0.006181338423070002
+PC4_metabolomics,C18n_QI10427,0.006168627173025806
+PC4_metabolomics,C18n_QI9177,0.006168038636404589
+PC4_metabolomics,C18n_QI9547,0.006073986831649972
+PC4_metabolomics,HILp_QI9843,0.006013793697786329
+PC4_metabolomics,C8p_QI24928,0.005994917278893702
+PC4_metabolomics,C18n_QI9889,0.005989695227887344
+PC4_metabolomics,C18n_QI9467,0.00596723505224272
+PC4_metabolomics,C18n_QI9891,0.0059638980349953855
+PC4_metabolomics,C8p_QI25904,0.005962912528688351
+PC4_metabolomics,C18n_QI9943,0.005944140143416665
+PC4_metabolomics,C18n_QI10422,0.005944042113202521
+PC4_metabolomics,C18n_QI10420,0.005937208638412341
+PC4_metabolomics,C18n_QI9883,0.00593295012391442
+PC4_metabolomics,C8p_QI11092,0.005932569970879328
+PC4_metabolomics,C18n_QI10430,0.005930331282432342
+PC4_metabolomics,C8p_QI15955,0.005929778974308443
+PC4_metabolomics,HILn_QI7725,0.005928755687128012
+PC4_metabolomics,C18n_QI8161,0.005913167216138198
+PC5_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_uniformis,0.08703317595338439
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruthenibacterium|s__Ruthenibacterium_lactatiformans,0.0833075160916955
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_unclassified|s__Clostridium_leptum,0.07506195309729165
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Anaerotruncus|s__Anaerotruncus_colihominis,0.07413470847493639
+PC5_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_copri,0.07259162684519976
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Coprococcus|s__Coprococcus_comes,0.0700715114096702
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_hallii,0.07005914361886456
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_hydrogenotrophica,0.06874321007462068
+PC5_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Gordonibacter|s__Gordonibacter_pamelaeae,0.06324718457320268
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_83,0.06215801331784833
+PC5_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_longum,0.06177045004044806
+PC5_taxonomic,k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Sutterellaceae|g__Turicimonas|s__Turicimonas_muris,0.061236088441731354
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerostipes|s__Anaerostipes_hadrus,0.06055901793201548
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_longicatena,0.06017207259913098
+PC5_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Tannerellaceae|g__Parabacteroides|s__Parabacteroides_merdae,0.05948566213893809
+PC5_taxonomic,k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Sutterellaceae|g__Parasutterella|s__Parasutterella_excrementihominis,0.05916560125794703
+PC5_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Eggerthella|s__Eggerthella_lenta,0.057698292478450534
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_145,0.05737162225409388
+PC5_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Coprobacillus|s__Coprobacillus_cateniformis,0.05634568207284107
+PC5_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_caccae,0.05528413067494424
+PC5_pathway,PANTO-PWY: phosphopantothenate biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis,0.016850878993187424
+PC5_pathway,UNINTEGRATED|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans,0.016507060015776218
+PC5_pathway,PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.01645999952218231
+PC5_pathway,HISTSYN-PWY: L-histidine biosynthesis|g__Bacteroides.s__Bacteroides_uniformis,0.0163975115372475
+PC5_pathway,PWY-4242: pantothenate and coenzyme A biosynthesis III|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.016108332722785244
+PC5_pathway,PWY-5686: UMP biosynthesis|g__Bacteroides.s__Bacteroides_uniformis,0.016052383922198734
+PC5_pathway,COA-PWY: coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.01601731232210009
+PC5_pathway,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Bacteroides.s__Bacteroides_uniformis,0.015995196469063996
+PC5_pathway,PWY-6700: queuosine biosynthesis|g__Bacteroides.s__Bacteroides_uniformis,0.015891883610564785
+PC5_pathway,ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.015878250551276025
+PC5_pathway,COBALSYN-PWY: adenosylcobalamin salvage from cobinamide I|g__Bacteroides.s__Bacteroides_uniformis,0.01586873553720628
+PC5_pathway,PWY-6737: starch degradation V|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans,0.015861243488210615
+PC5_pathway,VALSYN-PWY: L-valine biosynthesis|g__Ruthenibacterium.s__Ruthenibacterium_lactatiformans,0.015759623932857635
+PC5_pathway,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.01575825805528993
+PC5_pathway,PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.01572332705136655
+PC5_pathway,PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Bacteroides.s__Bacteroides_uniformis,0.01564687281222289
+PC5_pathway,PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.015616343386306105
+PC5_pathway,PWY-6737: starch degradation V|g__Bacteroides.s__Bacteroides_uniformis,0.015611268195817471
+PC5_pathway,PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Bacteroides.s__Bacteroides_uniformis_CAG_3,0.015604327630021583
+PC5_pathway,PWY-6609: adenine and adenosine salvage III|g__Bacteroides.s__Bacteroides_uniformis,0.015603722627271558
+PC5_proteomics,gi|189435798|gb|EDV04783.1|,0.018034688604699457
+PC5_proteomics,gi|149832947|gb|EDM88030.1|,0.016455489906570787
+PC5_proteomics,gi|154089532|gb|EDN88576.1|,0.016421061440842034
+PC5_proteomics,gi|167697771|gb|EDS14350.1|,0.01636642647495305
+PC5_proteomics,gi|156860846|gb|EDO54277.1|,0.01626175006035648
+PC5_proteomics,gi|156107459|gb|EDO09204.1|,0.015705778493669123
+PC5_proteomics,gi|156859361|gb|EDO52792.1|,0.01565605577146876
+PC5_proteomics,gi|167696851|gb|EDS13430.1|,0.015592152252842007
+PC5_proteomics,gi|156860614|gb|EDO54045.1|,0.015513204158970435
+PC5_proteomics,gi|156860777|gb|EDO54208.1|,0.015385670612920609
+PC5_proteomics,gi|189430642|gb|EDU99626.1|,0.015332839690011044
+PC5_proteomics,gi|158444112|gb|EDP21116.1|,0.015198746314073728
+PC5_proteomics,gi|167699033|gb|EDS15612.1|,0.015062432600612494
+PC5_proteomics,gi|158445914|gb|EDP22917.1|,0.014997582304558506
+PC5_proteomics,gi|156862649|gb|EDO56080.1|,0.014953912774318491
+PC5_proteomics,gi|156861221|gb|EDO54652.1|,0.014938412720366943
+PC5_proteomics,gi|156861404|gb|EDO54835.1|,0.01490347665298019
+PC5_proteomics,gi|156860576|gb|EDO54007.1|,0.01487192002575427
+PC5_proteomics,gi|156858804|gb|EDO52235.1|,0.014829093330176572
+PC5_proteomics,gi|149734335|gb|EDM50252.1|,0.014793897030168063
+PC5_metabolomics,HILp_QI241,0.006352289097059315
+PC5_metabolomics,HILn_QI46,0.005960625148871915
+PC5_metabolomics,HILp_QI68,0.00591583359969594
+PC5_metabolomics,HILp_QI1146,0.0059087918266233636
+PC5_metabolomics,HILp_QI53,0.005869987617476127
+PC5_metabolomics,HILp_QI15507,0.005864096046973188
+PC5_metabolomics,HILp_QI43,0.005825339396533229
+PC5_metabolomics,HILp_QI7107,0.005808857300390631
+PC5_metabolomics,C18n_QI8269,0.0057545561795831
+PC5_metabolomics,C18n_QI10087,0.005734408989711198
+PC5_metabolomics,HILp_QI5418,0.005720163676636868
+PC5_metabolomics,HILp_QI404,0.005713915816740343
+PC5_metabolomics,C18n_QI9010,0.005689878660964023
+PC5_metabolomics,HILp_QI50,0.005653524172440361
+PC5_metabolomics,C8p_QI23239,0.005633471536377375
+PC5_metabolomics,HILn_QI14507,0.005620951245656225
+PC5_metabolomics,HILp_QI56,0.005616464467094158
+PC5_metabolomics,HILp_QI7324,0.005614595908551111
+PC5_metabolomics,C18n_QI3645,0.0056083297593688495
+PC5_metabolomics,HILp_QI59,0.005606636924141666
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerostipes|s__Anaerostipes_hadrus,0.11370241654369737
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Megasphaera|s__Megasphaera_micronuciformis,0.10237817111271116
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_symbiosum,0.09405632689468554
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_infantium,0.09242644776012095
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_dispar,0.09090978643872406
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_longicatena,0.09074420191478948
+PC6_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Aeriscardovia|s__Aeriscardovia_aeriphila,0.08983211253525435
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_hallii,0.08978836811145094
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_producta,0.08286145649576704
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Coprococcus|s__Coprococcus_catus,0.08267571715027949
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_sp_CAG_38,0.08219392785718829
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_obeum,0.08202353211693071
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_sp_T11011_6,0.08167793895855766
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Candidatus_Stoquefichus|s__Candidatus_Stoquefichus_sp_KLE1796,0.07896599675011379
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Clostridium_spiroforme,0.07784262703159117
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_94,0.07622984128034588
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Erysipelatoclostridium|s__Clostridium_innocuum,0.07608941784608515
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_unclassified|s__Eubacterium_siraeum,0.0732705354116509
+PC6_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_nordii,0.07203262476177111
+PC6_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruthenibacterium|s__Ruthenibacterium_lactatiformans,0.06849830077668208
+PC6_pathway,LACTOSECAT-PWY: lactose and galactose degradation I|g__Anaerostipes.s__Anaerostipes_hadrus,0.020440125437120087
+PC6_pathway,"GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|g__Anaerostipes.s__Anaerostipes_hadrus",0.02001344531717021
+PC6_pathway,PWY-1042: glycolysis IV (plant cytosol)|g__Blautia.s__Blautia_obeum,0.01992193362091872
+PC6_pathway,CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Blautia.s__Blautia_obeum,0.019820579897676938
+PC6_pathway,PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|g__Anaerostipes.s__Anaerostipes_hadrus,0.019804880211938797
+PC6_pathway,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Blautia_obeum,0.019685342578684588
+PC6_pathway,PWY-3841: folate transformations II|g__Blautia.s__Blautia_obeum,0.019650685362393724
+PC6_pathway,THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Anaerostipes.s__Anaerostipes_hadrus,0.019649090568474536
+PC6_pathway,PWY-6168: flavin biosynthesis III (fungi)|g__Blautia.s__Blautia_obeum,0.019586660495654162
+PC6_pathway,NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Blautia.s__Blautia_obeum,0.01956115265880683
+PC6_pathway,PWY-3001: superpathway of L-isoleucine biosynthesis I|g__Anaerostipes.s__Anaerostipes_hadrus,0.01953815489352254
+PC6_pathway,PWY-621: sucrose degradation III (sucrose invertase)|g__Anaerostipes.s__Anaerostipes_hadrus,0.019528430509390276
+PC6_pathway,PWY-6168: flavin biosynthesis III (fungi)|g__Anaerostipes.s__Anaerostipes_hadrus,0.019365579140720963
+PC6_pathway,PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Anaerostipes.s__Anaerostipes_hadrus,0.019308263693527474
+PC6_pathway,GLUTORN-PWY: L-ornithine biosynthesis|g__Blautia.s__Blautia_obeum,0.01927159704019441
+PC6_pathway,PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Blautia.s__Blautia_obeum,0.019231752491049973
+PC6_pathway,PYRIDNUCSYN-PWY: NAD biosynthesis I (from aspartate)|g__Anaerostipes.s__Anaerostipes_hadrus,0.019179197982330563
+PC6_pathway,PWY-5659: GDP-mannose biosynthesis|g__Blautia.s__Blautia_obeum,0.01917362827430918
+PC6_pathway,PWY-7357: thiamin formation from pyrithiamine and oxythiamine (yeast)|g__Eubacterium.s__Eubacterium_hallii,0.01916808386510284
+PC6_pathway,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Blautia.s__Blautia_obeum,0.019141736710856803
+PC6_proteomics,gi|167710041|gb|EDS20620.1|,0.01925158474510774
+PC6_proteomics,gi|167711536|gb|EDS22115.1|,0.019174785319954153
+PC6_proteomics,gi|167712328|gb|EDS22907.1|,0.018713839941066828
+PC6_proteomics,gi|167711488|gb|EDS22067.1|,0.01856590844748159
+PC6_proteomics,gi|149833245|gb|EDM88327.1|,0.018479174594689507
+PC6_proteomics,gi|224955712|gb|EEG36921.1|,0.018376496478662966
+PC6_proteomics,gi|167711486|gb|EDS22065.1|,0.01835482688882601
+PC6_proteomics,gi|167656990|gb|EDS01120.1|,0.01793194704761912
+PC6_proteomics,gi|158437018|gb|EDP14785.1|,0.017899388900433962
+PC6_proteomics,gi|167712350|gb|EDS22929.1|,0.017763741177590338
+PC6_proteomics,gi|158448180|gb|EDP25175.1|,0.017673928049191007
+PC6_proteomics,gi|210160132|gb|EEA91103.1|,0.017535105821611826
+PC6_proteomics,gi|167657214|gb|EDS01344.1|,0.017348878275075932
+PC6_proteomics,gi|167710536|gb|EDS21115.1|,0.017298573622132298
+PC6_proteomics,gi|149831082|gb|EDM86171.1|,0.017222849351189923
+PC6_proteomics,gi|133776864|gb|EBA40684.1|,0.01709014835839325
+PC6_proteomics,gi|167710541|gb|EDS21120.1|,0.017044357567264298
+PC6_proteomics,gi|169257712|gb|EDS71678.1|,0.01694963741906768
+PC6_proteomics,gi|167710423|gb|EDS21002.1|,0.01688155624541818
+PC6_proteomics,gi|167711944|gb|EDS22523.1|,0.016793860701737086
+PC6_metabolomics,HILp_QI7913,0.006484743253020904
+PC6_metabolomics,HILp_QI4296,0.006463729756508746
+PC6_metabolomics,C8p_QI10516,0.0064030845604676956
+PC6_metabolomics,C8p_QI12326,0.006334498609000812
+PC6_metabolomics,C18n_QI3280,0.006313586846813517
+PC6_metabolomics,HILp_QI13137,0.0063069336347410495
+PC6_metabolomics,C18n_QI4511,0.006278238256095759
+PC6_metabolomics,C18n_QI13931,0.006275669826963772
+PC6_metabolomics,C8p_QI4830,0.006273926775422572
+PC6_metabolomics,HILp_QI7797,0.006234608586451841
+PC6_metabolomics,HILn_QI1872,0.006154593814033856
+PC6_metabolomics,HILn_QI26448,0.006145936417445573
+PC6_metabolomics,HILn_QI3281,0.0061441767007697125
+PC6_metabolomics,C8p_QI1413,0.006138865265407901
+PC6_metabolomics,HILn_QI990,0.0061314193806384625
+PC6_metabolomics,HILp_QI5104,0.006109737917727757
+PC6_metabolomics,HILp_QI10015,0.0061075116920190735
+PC6_metabolomics,HILn_QI2026,0.006105306352128039
+PC6_metabolomics,HILn_QI26605,0.006101733050176381
+PC6_metabolomics,HILp_QI6486,0.006097544001525027
+PC7_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Tannerellaceae|g__Parabacteroides|s__Parabacteroides_distasonis,0.1556793858352664
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus|s__Haemophilus_sputorum,0.15285929928175865
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_faecalis,0.15070292963964066
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Epsilonproteobacteria|o__Campylobacterales|f__Campylobacteraceae|g__Campylobacter|s__Campylobacter_concisus,0.15044109124761035
+PC7_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_dentium,0.14474478756754308
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_perfringens,0.14334043479471292
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_michiganensis,0.1410104531010402
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pasteurellales|f__Pasteurellaceae|g__Haemophilus|s__Haemophilus_parainfluenzae,0.12337154172081267
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_paraputrificum,0.1193059976410328
+PC7_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_ovatus,0.08777914109491028
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli,0.08710130492760083
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_dispar,0.08549540931414502
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_longicatena,0.07710081338547388
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Negativicutes|o__Veillonellales|f__Veillonellaceae|g__Veillonella|s__Veillonella_atypica,0.07454746830498815
+PC7_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Proteus|s__Proteus_mirabilis,0.06790009093929704
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerostipes|s__Anaerostipes_hadrus,0.06745716727450424
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Flavonifractor|s__Flavonifractor_plautii,0.060222672184743704
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_intestinalis,0.06007925201141998
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_bolteae,0.059832221681053815
+PC7_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_inulinivorans,0.059093368978243875
+PC7_pathway,PWY-6703: preQ0 biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis,0.026564271852791515
+PC7_pathway,PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.026257307602651596
+PC7_pathway,PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|g__Parabacteroides.s__Parabacteroides_distasonis,0.02616296747659265
+PC7_pathway,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.026069942278951312
+PC7_pathway,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis,0.026069942278951312
+PC7_pathway,PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.026051317070775914
+PC7_pathway,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.026036809373684987
+PC7_pathway,PWY-7539: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)|g__Parabacteroides.s__Parabacteroides_distasonis,0.026016913342315335
+PC7_pathway,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Parabacteroides.s__Parabacteroides_distasonis,0.02598021670866643
+PC7_pathway,COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis,0.025972850545721404
+PC7_pathway,PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.025966474356039874
+PC7_pathway,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis,0.025949670610232758
+PC7_pathway,PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis,0.025949670610232758
+PC7_pathway,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.02594464890393125
+PC7_pathway,PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis,0.025935529471730487
+PC7_pathway,HISDEG-PWY: L-histidine degradation I|g__Parabacteroides.s__Parabacteroides_distasonis,0.02593506068400184
+PC7_pathway,ARO-PWY: chorismate biosynthesis I|g__Parabacteroides.s__Parabacteroides_distasonis,0.025928847878148528
+PC7_pathway,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Parabacteroides.s__Parabacteroides_distasonis,0.025928481638237945
+PC7_pathway,PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Parabacteroides.s__Parabacteroides_distasonis,0.025911590356461792
+PC7_pathway,TRNA-CHARGING-PWY: tRNA charging|g__Parabacteroides.s__Parabacteroides_distasonis,0.025907453646628668
+PC7_proteomics,gi|156108912|gb|EDO10657.1|,0.026460622559998703
+PC7_proteomics,gi|156109179|gb|EDO10924.1|,0.025340010433396832
+PC7_proteomics,gi|156109832|gb|EDO11577.1|,0.02530629728892865
+PC7_proteomics,gi|156109176|gb|EDO10921.1|,0.024796545701646775
+PC7_proteomics,gi|156108910|gb|EDO10655.1|,0.02424160642475751
+PC7_proteomics,gi|189432601|gb|EDV01586.1|,0.02414089043025876
+PC7_proteomics,gi|224521864|gb|EEF90969.1|,0.024039431257345745
+PC7_proteomics,gi|156109178|gb|EDO10923.1|,0.023675536958918345
+PC7_proteomics,gi|154085782|gb|EDN84827.1|,0.023444484643233756
+PC7_proteomics,gi|156108909|gb|EDO10654.1|,0.02337141024560413
+PC7_proteomics,gi|189436308|gb|EDV05293.1|,0.02293246399289776
+PC7_proteomics,gi|154086838|gb|EDN85883.1|,0.02241160604081618
+PC7_proteomics,gi|156109435|gb|EDO11180.1|,0.0219934655944561
+PC7_proteomics,gi|198269705|gb|EDY93975.1|,0.021844872287622986
+PC7_proteomics,gi|156107298|gb|EDO09043.1|,0.021677906213980875
+PC7_proteomics,gi|198269967|gb|EDY94237.1|,0.02100310791188184
+PC7_proteomics,gi|156109177|gb|EDO10922.1|,0.020773344874546056
+PC7_proteomics,gi|156107303|gb|EDO09048.1|,0.020295007131739106
+PC7_proteomics,gi|156107581|gb|EDO09326.1|,0.019609877972902756
+PC7_proteomics,gi|154086046|gb|EDN85091.1|,0.019570236790610703
+PC7_metabolomics,HILn_QI1700,0.00815055485611678
+PC7_metabolomics,HILn_QI23280,0.008034600109999278
+PC7_metabolomics,HILn_QI20038,0.00801445945630633
+PC7_metabolomics,HILn_QI7454,0.008013384780366116
+PC7_metabolomics,C8p_QI10768,0.008009306880793852
+PC7_metabolomics,HILn_QI6725,0.007985835316327558
+PC7_metabolomics,HILp_QI591,0.007952535817935914
+PC7_metabolomics,HILn_QI24408,0.007946855944375395
+PC7_metabolomics,HILn_QI28408,0.007937032782850729
+PC7_metabolomics,HILn_QI23997,0.007935542249655841
+PC7_metabolomics,HILp_QI22509,0.007896086590444372
+PC7_metabolomics,HILn_QI2285,0.00789222673272394
+PC7_metabolomics,HILn_QI31446,0.007877423222181996
+PC7_metabolomics,C18n_QI8017,0.007855967290554166
+PC7_metabolomics,C18n_QI5443,0.007808205732885494
+PC7_metabolomics,HILn_QI1268,0.007786148567954617
+PC7_metabolomics,HILn_QI6416,0.0077825559591777685
+PC7_metabolomics,C8p_QI10496,0.0077766896871949275
+PC7_metabolomics,HILn_QI18229,0.007766996327224585
+PC7_metabolomics,HILn_QI4504,0.0076993442288507165
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Pseudoflavonifractor|s__Pseudoflavonifractor_sp_An184,0.1288728208211753
+PC8_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Eggerthella|s__Eggerthella_lenta,0.12628300930835196
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_rogosae,0.1116573099967883
+PC8_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Proteus|s__Proteus_hauseri,0.10112817508396353
+PC8_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_oxytoca,0.09245129112766372
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospira|s__Lachnospira_pectinoschiza,0.08645801836735847
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_ramulus,0.08347875575243842
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Butyricicoccus|s__Butyricicoccus_pullicaecorum,0.07490995697279405
+PC8_taxonomic,k__Bacteria|p__Actinobacteria|c__Coriobacteriia|o__Eggerthellales|f__Eggerthellaceae|g__Gordonibacter|s__Gordonibacter_pamelaeae,0.07390494868895792
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales_unclassified|g__Monoglobus|s__Monoglobus_pectinilyticus,0.07233215233181314
+PC8_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Barnesiellaceae|g__Coprobacter|s__Coprobacter_fastidiosus,0.07186777935503938
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerotignum|s__Anaerotignum_lactatifermentans,0.06993811590578032
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_mitis,0.06980382305740256
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_coccoides,0.06948001326570893
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_sp_CAG_182,0.06905531263909721
+PC8_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_bivia,0.06766538624197738
+PC8_taxonomic,k__Archaea|p__Euryarchaeota|c__Methanobacteria|o__Methanobacteriales|f__Methanobacteriaceae|g__Methanobrevibacter|s__Methanobrevibacter_smithii,0.067660657511643
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.0675406608287737
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_sp_CAG_257,0.06698671771798266
+PC8_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_bolteae_CAG_59,0.06499394653168453
+PC8_pathway,"PWY-7385: 1,3-propanediol biosynthesis (engineered)|unclassified",0.02015923654564532
+PC8_pathway,PWY-6595: superpathway of guanosine nucleotides degradation (plants)|g__Dorea.s__Dorea_longicatena,0.01989698663830206
+PC8_pathway,PWY-6606: guanosine nucleotides degradation II|g__Dorea.s__Dorea_longicatena,0.019878354324104647
+PC8_pathway,PWY-6608: guanosine nucleotides degradation III|g__Dorea.s__Dorea_longicatena,0.01985209261868539
+PC8_pathway,UNINTEGRATED|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184,0.01980204008959473
+PC8_pathway,"GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Dorea.s__Dorea_longicatena",0.019708175276423018
+PC8_pathway,PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Dorea.s__Dorea_longicatena,0.019641889388795197
+PC8_pathway,VALSYN-PWY: L-valine biosynthesis|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184,0.019635994012350874
+PC8_pathway,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Pseudoflavonifractor.s__Pseudoflavonifractor_sp_An184,0.019635994012350874
+PC8_pathway,P161-PWY: acetylene degradation|g__Dorea.s__Dorea_longicatena,0.01960737710324373
+PC8_pathway,PWY-4981: L-proline biosynthesis II (from arginine)|g__Dorea.s__Dorea_longicatena,0.01951866119086433
+PC8_pathway,CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Dorea.s__Dorea_longicatena,0.019465287328678627
+PC8_pathway,PWY-5100: pyruvate fermentation to acetate and lactate II|g__Dorea.s__Dorea_longicatena,0.019461166513424697
+PC8_pathway,PWY-7242: D-fructuronate degradation|g__Dorea.s__Dorea_longicatena,0.019389548545943144
+PC8_pathway,SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Dorea.s__Dorea_longicatena,0.01934396063448082
+PC8_pathway,PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|g__Dorea.s__Dorea_longicatena,0.01933759090001771
+PC8_pathway,PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|g__Dorea.s__Dorea_longicatena,0.01933759090001771
+PC8_pathway,P164-PWY: purine nucleobases degradation I (anaerobic)|g__Dorea.s__Dorea_longicatena,0.019334964478561867
+PC8_pathway,PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|g__Dorea.s__Dorea_longicatena,0.019282015908292902
+PC8_pathway,PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|g__Dorea.s__Dorea_longicatena,0.019281940441675003
+PC8_proteomics,gi|300404246|gb|EFJ87784.1|,0.016464894465860653
+PC8_proteomics,gi|328531447|gb|EGF58288.1|,0.015418535332262112
+PC8_proteomics,gi|153793546|gb|EDN75966.1|,0.01406943090134071
+PC8_proteomics,gi|189438582|gb|EDV07567.1|,0.013996112325629992
+PC8_proteomics,gi|212665684|gb|EEB26256.1|,0.013914200487839142
+PC8_proteomics,gi|212665666|gb|EEB26238.1|,0.013767949041339237
+PC8_proteomics,gi|153796193|gb|EDN78613.1|,0.013737618323529294
+PC8_proteomics,gi|212665863|gb|EEB26435.1|,0.013637911458222398
+PC8_proteomics,gi|212663463|gb|EEB24037.1|,0.013621487291945799
+PC8_proteomics,gi|212662991|gb|EEB23565.1|,0.013579119348996523
+PC8_proteomics,gi|158443962|gb|EDP20966.1|,0.01350084847722216
+PC8_proteomics,gi|212666501|gb|EEB27073.1|,0.013415120203354622
+PC8_proteomics,gi|212665639|gb|EEB26211.1|,0.013311343898975857
+PC8_proteomics,gi|158444988|gb|EDP21991.1|,0.013203948364119604
+PC8_proteomics,gi|212664071|gb|EEB24645.1|,0.013157861177121725
+PC8_proteomics,gi|212665665|gb|EEB26237.1|,0.013075428343772047
+PC8_proteomics,gi|212666564|gb|EEB27136.1|,0.013030684431918767
+PC8_proteomics,gi|158444793|gb|EDP21797.1|,0.013029884609454461
+PC8_proteomics,gi|198272868|gb|EDY97137.1|,0.013011449724348242
+PC8_proteomics,gi|212665862|gb|EEB26434.1|,0.01298691513749363
+PC8_metabolomics,C8p_QI8273,0.006759911563820446
+PC8_metabolomics,C8p_QI15074,0.006674153106689969
+PC8_metabolomics,HILn_QI2970,0.006384435219921977
+PC8_metabolomics,C18n_QI7015,0.006240765757736652
+PC8_metabolomics,HILn_QI26371,0.006207040510009301
+PC8_metabolomics,C18n_QI4777,0.006074514264187723
+PC8_metabolomics,C8p_QI6586,0.006067592306000033
+PC8_metabolomics,C18n_QI8215,0.006045283781852795
+PC8_metabolomics,HILn_QI21639,0.006040250490141197
+PC8_metabolomics,HILn_QI26274,0.0059746793255402554
+PC8_metabolomics,C8p_QI17869,0.005972931818235059
+PC8_metabolomics,HILn_QI7196,0.005964558161984325
+PC8_metabolomics,HILn_QI11298,0.005922684133001174
+PC8_metabolomics,HILp_QI8682,0.005914972799564431
+PC8_metabolomics,C8p_QI20945,0.005914750718520526
+PC8_metabolomics,C18n_QI7838,0.005912170299995951
+PC8_metabolomics,HILn_QI17558,0.005911254111397227
+PC8_metabolomics,HILp_QI21018,0.005908848501337359
+PC8_metabolomics,C18n_QI11473,0.00588725244359343
+PC8_metabolomics,HILn_QI21947,0.005883804776845384
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus|s__Ruminococcus_bromii,0.1238552732760579
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Massiliomicrobiota|s__Massiliomicrobiota_timonensis,0.12168256579053464
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Firmicutes_unclassified|o__Firmicutes_unclassified|f__Firmicutes_unclassified|g__Firmicutes_unclassified|s__Firmicutes_bacterium_CAG_94,0.09293494893359161
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia|s__Roseburia_faecis,0.09152894948105723
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii,0.08447891026379058
+PC9_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Rikenellaceae|g__Alistipes|s__Alistipes_indistinctus,0.08253322377858766
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcaceae_unclassified|s__Eubacterium_siraeum,0.07834250161398704
+PC9_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_longum,0.0779756900975723
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_formicigenerans,0.07793474286670396
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Sellimonas|s__Sellimonas_intestinalis,0.07065175832024496
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Erysipelotrichia|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Holdemania|s__Holdemania_filiformis,0.06586076318560094
+PC9_taxonomic,k__Bacteria|p__Verrucomicrobia|c__Verrucomicrobiae|o__Verrucomicrobiales|f__Akkermansiaceae|g__Akkermansia|s__Akkermansia_muciniphila,0.06501701326843119
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruthenibacterium|s__Ruthenibacterium_lactatiformans,0.06282330340479875
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Agathobaculum|s__Agathobaculum_butyriciproducens,0.061148304279913836
+PC9_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_timonensis,0.06048153854192591
+PC9_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_dorei,0.05887488762651248
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Lachnoclostridium_sp_An138,0.058816150375565465
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospira|s__Lachnospira_pectinoschiza,0.05792605827605636
+PC9_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Dorea|s__Dorea_sp_CAG_317,0.05714852357379822
+PC9_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_copri,0.05705227558561315
+PC9_pathway,ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Ruminococcus.s__Ruminococcus_bromii,0.02143703714063095
+PC9_pathway,PWY-7400: L-arginine biosynthesis IV (archaebacteria)|g__Ruminococcus.s__Ruminococcus_bromii,0.021389039312804534
+PC9_pathway,ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|g__Ruminococcus.s__Ruminococcus_bromii,0.02138857779516368
+PC9_pathway,TRPSYN-PWY: L-tryptophan biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii,0.021378054220446478
+PC9_pathway,GLUTORN-PWY: L-ornithine biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii,0.021372437679875744
+PC9_pathway,PWY-6151: S-adenosyl-L-methionine cycle I|g__Ruminococcus.s__Ruminococcus_bromii,0.02132860125557963
+PC9_pathway,PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Ruminococcus.s__Ruminococcus_bromii,0.021294432601634255
+PC9_pathway,COA-PWY-1: coenzyme A biosynthesis II (mammalian)|g__Ruminococcus.s__Ruminococcus_bromii,0.021282079979192604
+PC9_pathway,PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Ruminococcus.s__Ruminococcus_bromii,0.021251174715038585
+PC9_pathway,VALSYN-PWY: L-valine biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii,0.021251174715038585
+PC9_pathway,PWY-6700: queuosine biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii,0.021231627164704597
+PC9_pathway,PWY-5097: L-lysine biosynthesis VI|g__Ruminococcus.s__Ruminococcus_bromii,0.02121107930470193
+PC9_pathway,PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Ruminococcus.s__Ruminococcus_bromii,0.021204902618641847
+PC9_pathway,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Ruminococcus.s__Ruminococcus_bromii,0.021201745579039973
+PC9_pathway,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Ruminococcus.s__Ruminococcus_bromii,0.021195882521949053
+PC9_pathway,UNINTEGRATED|g__Ruminococcus.s__Ruminococcus_bromii,0.0211858827271239
+PC9_pathway,PWY-6737: starch degradation V|g__Ruminococcus.s__Ruminococcus_bromii,0.021178518863044938
+PC9_pathway,PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Ruminococcus.s__Ruminococcus_bromii,0.021173781904189348
+PC9_pathway,PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Ruminococcus.s__Ruminococcus_bromii,0.021171205501418464
+PC9_pathway,PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii,0.021139139803684807
+PC9_proteomics,gi|156861920|gb|EDO55351.1|,0.021417871589107174
+PC9_proteomics,gi|156867478|gb|EDO60850.1|,0.020224295529253998
+PC9_proteomics,gi|150275030|gb|EDN02078.1|,0.02016430083581667
+PC9_proteomics,gi|167712286|gb|EDS22865.1|,0.019898184074658314
+PC9_proteomics,gi|167711631|gb|EDS22210.1|,0.019793217230752853
+PC9_proteomics,gi|149736433|gb|EDM52319.1|,0.01940771832392199
+PC9_proteomics,gi|156862886|gb|EDO56317.1|,0.01922536413803202
+PC9_proteomics,gi|224955012|gb|EEG36221.1|,0.019167943562998696
+PC9_proteomics,gi|150273613|gb|EDN00741.1|,0.01910331225959023
+PC9_proteomics,gi|149754050|gb|EDM63981.1|,0.019017956687359807
+PC9_proteomics,gi|167711247|gb|EDS21826.1|,0.018795988292045852
+PC9_proteomics,gi|167666286|gb|EDS10416.1|,0.018772657859068065
+PC9_proteomics,gi|167660076|gb|EDS04206.1|,0.018680251671225664
+PC9_proteomics,gi|167709674|gb|EDS20253.1|,0.018598782845621335
+PC9_proteomics,gi|149831522|gb|EDM86609.1|,0.01857432414334526
+PC9_proteomics,gi|212666706|gb|EEB27278.1|,0.01841647201081555
+PC9_proteomics,gi|543000574|gb|ERI95560.1|,0.01838670768612359
+PC9_proteomics,gi|167711363|gb|EDS21942.1|,0.018371740516614873
+PC9_proteomics,gi|197296873|gb|EDY31444.1|,0.018188755541101335
+PC9_proteomics,gi|150272227|gb|EDM99431.1|,0.018079053927748667
+PC9_metabolomics,C18n_QI10906,0.006947414422097572
+PC9_metabolomics,C18n_QI13079,0.006901986697746926
+PC9_metabolomics,C18n_QI13096,0.006799405108360833
+PC9_metabolomics,C18n_QI13097,0.006764862291288036
+PC9_metabolomics,C18n_QI12480,0.00676220755108551
+PC9_metabolomics,C18n_QI12075,0.006746428835985678
+PC9_metabolomics,C8p_QI12866,0.006745300695213622
+PC9_metabolomics,C18n_QI4491,0.006745206134397563
+PC9_metabolomics,C18n_QI13077,0.006704796559421204
+PC9_metabolomics,C18n_QI13078,0.006688685591288666
+PC9_metabolomics,C18n_QI12776,0.00665550724956645
+PC9_metabolomics,HILn_QI18382,0.006651046279689547
+PC9_metabolomics,C18n_QI8323,0.006608724409626733
+PC9_metabolomics,HILn_QI26374,0.0066012834345322334
+PC9_metabolomics,HILn_QI13990,0.006594989514273774
+PC9_metabolomics,C18n_QI4970,0.006593750759916172
+PC9_metabolomics,C8p_QI10232,0.006588528852580642
+PC9_metabolomics,HILn_QI20172,0.0065594525647313055
+PC9_metabolomics,C18n_QI3302,0.006492684997627609
+PC9_metabolomics,C18n_QI10101,0.006474662196258974
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_mitis,0.12229589752046484
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_wexlerae,0.11587715203275485
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_rogosae,0.11566214416644831
+PC10_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_oxytoca,0.1151031542869787
+PC10_taxonomic,k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Proteus|s__Proteus_hauseri,0.11460365044161534
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Butyricicoccus|s__Butyricicoccus_pullicaecorum,0.10171936490551159
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Fusicatenibacter|s__Fusicatenibacter_saccharivorans,0.09789235834257223
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_bolteae_CAG_59,0.09013625246278047
+PC10_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Barnesiellaceae|g__Coprobacter|s__Coprobacter_fastidiosus,0.08860373430138063
+PC10_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_dorei,0.08787340887332126
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_symbiosum,0.08703656471543426
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnospira|s__Lachnospira_pectinoschiza,0.08112421441826465
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiales_unclassified|g__Monoglobus|s__Monoglobus_pectinilyticus,0.07735465318414131
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Blautia|s__Blautia_coccoides,0.07659734695931092
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Anaerotignum|s__Anaerotignum_lactatifermentans,0.07541202847869313
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium|s__Eubacterium_ramulus,0.07352054975469564
+PC10_taxonomic,k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Lachnoclostridium|s__Clostridium_saccharolyticum,0.07017553840688066
+PC10_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_disiens,0.06503925842230686
+PC10_taxonomic,k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Prevotellaceae|g__Prevotella|s__Prevotella_bivia,0.06336980419445157
+PC10_taxonomic,k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_mucilaginosa,0.06329644927541474
+PC10_pathway,TRNA-CHARGING-PWY: tRNA charging|g__Dorea.s__Dorea_longicatena,0.021908486715864692
+PC10_pathway,PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Dorea.s__Dorea_longicatena,0.021652180780618556
+PC10_pathway,PANTOSYN-PWY: pantothenate and coenzyme A biosynthesis I|g__Blautia.s__Blautia_wexlerae,0.021546040396656668
+PC10_pathway,PWY-5667: CDP-diacylglycerol biosynthesis I|g__Dorea.s__Dorea_longicatena,0.0214528869081993
+PC10_pathway,PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Dorea.s__Dorea_longicatena,0.0214528869081993
+PC10_pathway,PWY-3841: folate transformations II|g__Dorea.s__Dorea_longicatena,0.021299751131708466
+PC10_pathway,ARO-PWY: chorismate biosynthesis I|g__Dorea.s__Dorea_longicatena,0.02128072456760495
+PC10_pathway,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Dorea.s__Dorea_longicatena,0.02107324492882693
+PC10_pathway,P164-PWY: purine nucleobases degradation I (anaerobic)|g__Dorea.s__Dorea_longicatena,0.021058871230069998
+PC10_pathway,1CMET2-PWY: N10-formyl-tetrahydrofolate biosynthesis|g__Blautia.s__Blautia_wexlerae,0.021023350250566626
+PC10_pathway,PWY-3841: folate transformations II|g__Blautia.s__Blautia_wexlerae,0.021012496961879037
+PC10_pathway,"GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|g__Dorea.s__Dorea_longicatena",0.02073929404253051
+PC10_pathway,SALVADEHYPOX-PWY: adenosine nucleotides degradation II|g__Dorea.s__Dorea_longicatena,0.02066900907660413
+PC10_pathway,PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|g__Dorea.s__Dorea_longicatena,0.020642379642232936
+PC10_pathway,PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|g__Dorea.s__Dorea_longicatena,0.02051667722267369
+PC10_pathway,PENTOSE-P-PWY: pentose phosphate pathway|g__Dorea.s__Dorea_longicatena,0.02048836338378282
+PC10_pathway,THISYNARA-PWY: superpathway of thiamin diphosphate biosynthesis III (eukaryotes)|g__Dorea.s__Dorea_longicatena,0.02048691712273789
+PC10_pathway,PWY-6608: guanosine nucleotides degradation III|g__Dorea.s__Dorea_longicatena,0.02044208803679298
+PC10_pathway,PWY-6606: guanosine nucleotides degradation II|g__Dorea.s__Dorea_longicatena,0.020423949595845075
+PC10_pathway,PWY-6595: superpathway of guanosine nucleotides degradation (plants)|g__Dorea.s__Dorea_longicatena,0.02038314014041373
+PC10_proteomics,gi|212663499|gb|EEB24073.1|,0.019065502814296042
+PC10_proteomics,gi|212665863|gb|EEB26435.1|,0.01820651922002632
+PC10_proteomics,gi|212665639|gb|EEB26211.1|,0.018090712820255848
+PC10_proteomics,gi|153796374|gb|EDN78794.1|,0.018008449976307333
+PC10_proteomics,gi|212665666|gb|EEB26238.1|,0.018005095807102276
+PC10_proteomics,gi|145848541|gb|EDK25459.1|,0.017898328687394962
+PC10_proteomics,gi|169293394|gb|EDS75527.1|,0.017818887867795896
+PC10_proteomics,gi|145847219|gb|EDK24137.1|,0.017754184782070113
+PC10_proteomics,gi|212663463|gb|EEB24037.1|,0.01775316379124798
+PC10_proteomics,gi|212665665|gb|EEB26237.1|,0.01771846163254865
+PC10_proteomics,gi|212666501|gb|EEB27073.1|,0.017683256975813893
+PC10_proteomics,gi|212665862|gb|EEB26434.1|,0.017593947599804434
+PC10_proteomics,gi|212665099|gb|EEB25671.1|,0.01753117219967747
+PC10_proteomics,gi|198272867|gb|EDY97136.1|,0.01752790256031786
+PC10_proteomics,gi|158432171|gb|EDP10460.1|,0.017507751963223333
+PC10_proteomics,gi|212665835|gb|EEB26407.1|,0.017492407489510413
+PC10_proteomics,gi|212665684|gb|EEB26256.1|,0.017393051456591337
+PC10_proteomics,gi|198272868|gb|EDY97137.1|,0.01734057299355902
+PC10_proteomics,gi|212666911|gb|EEB27483.1|,0.017298393582176115
+PC10_proteomics,gi|153796177|gb|EDN78597.1|,0.017263204110232657
+PC10_metabolomics,HILp_QI17323,0.007202230504885606
+PC10_metabolomics,HILn_QI13193,0.007177853643264681
+PC10_metabolomics,HILn_QI15619,0.0070809278455183705
+PC10_metabolomics,C18n_QI13357,0.007069338382615435
+PC10_metabolomics,C18n_QI13045,0.00703818366508468
+PC10_metabolomics,HILn_QI5958,0.006997698392380915
+PC10_metabolomics,HILn_QI19616,0.006997285731718543
+PC10_metabolomics,C18n_QI4645,0.006978021637890741
+PC10_metabolomics,HILp_QI20743,0.006952799273236246
+PC10_metabolomics,C8p_QI22423,0.006947489532258254
+PC10_metabolomics,HILp_QI23827,0.006927254335859008
+PC10_metabolomics,HILp_QI17698,0.006888021975141415
+PC10_metabolomics,HILp_QI23102,0.00685749766378037
+PC10_metabolomics,HILn_QI4851,0.006853794337107107
+PC10_metabolomics,HILp_QI23519,0.006840590609004737
+PC10_metabolomics,C18n_QI12769,0.006832274346187699
+PC10_metabolomics,C18n_QI9551,0.006822767526385146
+PC10_metabolomics,C8p_QI12275,0.006820430575637561
+PC10_metabolomics,HILn_QI7143,0.006801098487521666
+PC10_metabolomics,HILn_QI23777,0.006799434649576038

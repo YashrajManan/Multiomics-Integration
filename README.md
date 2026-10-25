@@ -84,7 +84,7 @@ survive scrutiny. The corrected, honest null result is the one this project stan
 ## Caveats
 
 This is a real, linear, classical integration method — it would not detect a real factor whose relationship to
-diagnosis is strongly nonlinear (project #7B applies a deep-learning-based approach to this same real aligned
-data for comparison). The real complete-case restriction to 83 of 131 total participants is a disclosed
+diagnosis is strongly nonlinear (the companion project, Multi-Omics Integration with Deep Learning, applies a
+deep-learning-based approach to this same real aligned data for comparison). The real complete-case restriction to 83 of 131 total participants is a disclosed
 trade-off chosen explicitly over imputing missing omics layers. The 10% prevalence threshold is a standard,
 defensible but not uniquely "correct" choice.
